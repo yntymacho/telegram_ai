@@ -1,0 +1,7 @@
+space: AI-Telegram-Sales-Assistant
+sdk: docker
+app_port: 8080
+env:
+  TELEGRAM_BOT_TOKEN: ${{ TELEGRAM_BOT_TOKEN }}
+  MISTRAL_API_KEY: ${{ MISTRAL_API_KEY }}
+  PORT: 8080

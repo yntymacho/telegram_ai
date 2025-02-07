@@ -1,0 +1,11 @@
+python-telegram-bot==20.6
+chromadb==0.4.24
+pandas==2.2.1
+mistralai==0.4.0
+python-dotenv==1.0.1
+google-api-python-client==2.123.0
+google-auth-oauthlib==1.2.0
+sentence-transformers==2.5.1
+loguru==0.7.2
+pydantic==2.5.3
+tenacity==8.2.3

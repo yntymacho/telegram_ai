@@ -1,0 +1,1229 @@
+2025-02-06 05:24:39.752 | INFO     | __main__:main:24 - Starting Sales Assistant Bot
+2025-02-06 05:24:39.753 | ERROR    | bot:__init__:32 - Failed to initialize sales bot: Google credentials not found at: path/to/credentials.json
+2025-02-06 05:24:39.753 | ERROR    | __main__:main:32 - Bot crashed: Google credentials not found at: path/to/credentials.json
+Traceback (most recent call last):
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/main.py", line 36, in <module>
+    main()
+    └ <function main at 0x74d754c896c0>
+
+> File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/main.py", line 26, in main
+    bot = SalesBot()
+          └ <class 'bot.SalesBot'>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/bot.py", line 19, in __init__
+    config.validate_paths()
+    │      └ <function Config.validate_paths at 0x74d753684680>
+    └ Config(PROJECT_ROOT=PosixPath('/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent'), CHROMA_DB_PATH=PosixPath('/home/ysrmax...
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/config.py", line 38, in validate_paths
+    raise FileNotFoundError(
+
+FileNotFoundError: Google credentials not found at: path/to/credentials.json
+2025-02-06 05:25:31.107 | INFO     | __main__:main:24 - Starting Sales Assistant Bot
+2025-02-06 05:25:31.107 | ERROR    | bot:__init__:32 - Failed to initialize sales bot: Google credentials not found at: path/to/credentials.json
+2025-02-06 05:25:31.107 | ERROR    | __main__:main:32 - Bot crashed: Google credentials not found at: path/to/credentials.json
+Traceback (most recent call last):
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/main.py", line 36, in <module>
+    main()
+    └ <function main at 0x7127b4b7d620>
+
+> File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/main.py", line 26, in main
+    bot = SalesBot()
+          └ <class 'bot.SalesBot'>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/bot.py", line 19, in __init__
+    config.validate_paths()
+    │      └ <function Config.validate_paths at 0x7127b34685e0>
+    └ Config(PROJECT_ROOT=PosixPath('/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent'), CHROMA_DB_PATH=PosixPath('/home/ysrmax...
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/config.py", line 38, in validate_paths
+    raise FileNotFoundError(
+
+FileNotFoundError: Google credentials not found at: path/to/credentials.json
+2025-02-06 05:59:08.180 | INFO     | __main__:main:24 - Starting Sales Assistant Bot
+2025-02-06 05:59:08.180 | ERROR    | bot:__init__:32 - Failed to initialize sales bot: Google credentials not found at: path/to/credentials.json
+2025-02-06 05:59:08.180 | ERROR    | __main__:main:32 - Bot crashed: Google credentials not found at: path/to/credentials.json
+Traceback (most recent call last):
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/main.py", line 36, in <module>
+    main()
+    └ <function main at 0x77eb90489620>
+
+> File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/main.py", line 26, in main
+    bot = SalesBot()
+          └ <class 'bot.SalesBot'>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/bot.py", line 19, in __init__
+    config.validate_paths()
+    │      └ <function Config.validate_paths at 0x77eb8ee685e0>
+    └ Config(PROJECT_ROOT=PosixPath('/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent'), CHROMA_DB_PATH=PosixPath('/home/ysrmax...
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/config.py", line 38, in validate_paths
+    raise FileNotFoundError(
+
+FileNotFoundError: Google credentials not found at: path/to/credentials.json
+2025-02-06 06:02:29.376 | INFO     | __main__:main:24 - Starting Sales Assistant Bot
+2025-02-06 06:02:29.376 | ERROR    | bot:__init__:32 - Failed to initialize sales bot: Google credentials not found at: path/to/credentials.json
+2025-02-06 06:02:29.376 | ERROR    | __main__:main:32 - Bot crashed: Google credentials not found at: path/to/credentials.json
+Traceback (most recent call last):
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/main.py", line 36, in <module>
+    main()
+    └ <function main at 0x76b2cb07d620>
+
+> File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/main.py", line 26, in main
+    bot = SalesBot()
+          └ <class 'bot.SalesBot'>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/bot.py", line 19, in __init__
+    config.validate_paths()
+    │      └ <function Config.validate_paths at 0x76b2c9a645e0>
+    └ Config(PROJECT_ROOT=PosixPath('/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent'), CHROMA_DB_PATH=PosixPath('/home/ysrmax...
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/config.py", line 38, in validate_paths
+    raise FileNotFoundError(
+
+FileNotFoundError: Google credentials not found at: path/to/credentials.json
+2025-02-06 06:03:11.979 | INFO     | __main__:main:24 - Starting Sales Assistant Bot
+2025-02-06 06:03:11.979 | ERROR    | bot:__init__:32 - Failed to initialize sales bot: Google credentials not found at: path/to/credentials.json
+2025-02-06 06:03:11.979 | ERROR    | __main__:main:32 - Bot crashed: Google credentials not found at: path/to/credentials.json
+Traceback (most recent call last):
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/main.py", line 36, in <module>
+    main()
+    └ <function main at 0x7855b1489620>
+
+> File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/main.py", line 26, in main
+    bot = SalesBot()
+          └ <class 'bot.SalesBot'>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/bot.py", line 19, in __init__
+    config.validate_paths()
+    │      └ <function Config.validate_paths at 0x7855afe80680>
+    └ Config(PROJECT_ROOT=PosixPath('/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent'), CHROMA_DB_PATH=PosixPath('/home/ysrmax...
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/config.py", line 38, in validate_paths
+    raise FileNotFoundError(
+
+FileNotFoundError: Google credentials not found at: path/to/credentials.json
+2025-02-06 06:03:58.891 | INFO     | __main__:main:24 - Starting Sales Assistant Bot
+2025-02-06 06:03:58.891 | DEBUG    | config:validate_paths:44 - Validating Google credentials path: path/to/credentials.json
+2025-02-06 06:03:58.892 | ERROR    | bot:__init__:32 - Failed to initialize sales bot: Google credentials not found at: path/to/credentials.json
+2025-02-06 06:03:58.892 | ERROR    | __main__:main:32 - Bot crashed: Google credentials not found at: path/to/credentials.json
+Traceback (most recent call last):
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/main.py", line 36, in <module>
+    main()
+    └ <function main at 0x752d38a7d620>
+
+> File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/main.py", line 26, in main
+    bot = SalesBot()
+          └ <class 'bot.SalesBot'>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/bot.py", line 19, in __init__
+    config.validate_paths()
+    │      └ <function Config.validate_paths at 0x752d374845e0>
+    └ Config(PROJECT_ROOT=PosixPath('/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent'), CHROMA_DB_PATH=PosixPath('/home/ysrmax...
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/config.py", line 46, in validate_paths
+    raise FileNotFoundError(
+
+FileNotFoundError: Google credentials not found at: path/to/credentials.json
+2025-02-06 06:04:26.160 | INFO     | __main__:main:31 - Starting Sales Assistant Bot
+2025-02-06 06:04:26.160 | DEBUG    | config:validate_paths:44 - Validating Google credentials path: path/to/credentials.json
+2025-02-06 06:04:26.160 | ERROR    | bot:__init__:32 - Failed to initialize sales bot: Google credentials not found at: path/to/credentials.json
+2025-02-06 06:04:26.160 | ERROR    | __main__:main:39 - Bot crashed: Google credentials not found at: path/to/credentials.json
+Traceback (most recent call last):
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/main.py", line 43, in <module>
+    main()
+    └ <function main at 0x76552b33a840>
+
+> File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/main.py", line 33, in main
+    bot = SalesBot()
+          └ <class 'bot.SalesBot'>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/bot.py", line 19, in __init__
+    config.validate_paths()
+    │      └ <function Config.validate_paths at 0x765529edb600>
+    └ Config(PROJECT_ROOT=PosixPath('/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent'), CHROMA_DB_PATH=PosixPath('/home/ysrmax...
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/config.py", line 46, in validate_paths
+    raise FileNotFoundError(
+
+FileNotFoundError: Google credentials not found at: path/to/credentials.json
+2025-02-06 06:05:55.394 | INFO     | __main__:main:31 - Starting Sales Assistant Bot
+2025-02-06 06:05:55.394 | DEBUG    | config:validate_paths:44 - Validating Google credentials path: path/to/credentials.json
+2025-02-06 06:05:55.394 | ERROR    | bot:__init__:32 - Failed to initialize sales bot: Google credentials not found at: path/to/credentials.json
+2025-02-06 06:05:55.394 | ERROR    | __main__:main:39 - Bot crashed: Google credentials not found at: path/to/credentials.json
+Traceback (most recent call last):
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/main.py", line 43, in <module>
+    main()
+    └ <function main at 0x788bdd43e840>
+
+> File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/main.py", line 33, in main
+    bot = SalesBot()
+          └ <class 'bot.SalesBot'>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/bot.py", line 19, in __init__
+    config.validate_paths()
+    │      └ <function Config.validate_paths at 0x788bdbfdb600>
+    └ Config(PROJECT_ROOT=PosixPath('/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent'), CHROMA_DB_PATH=PosixPath('/home/ysrmax...
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/config.py", line 46, in validate_paths
+    raise FileNotFoundError(
+
+FileNotFoundError: Google credentials not found at: path/to/credentials.json
+2025-02-06 06:06:10.411 | INFO     | __main__:main:31 - Starting Sales Assistant Bot
+2025-02-06 06:06:10.412 | DEBUG    | config:validate_paths:44 - Validating Google credentials path: path/to/credentials.json
+2025-02-06 06:06:10.412 | ERROR    | bot:__init__:32 - Failed to initialize sales bot: Google credentials not found at: path/to/credentials.json
+2025-02-06 06:06:10.412 | ERROR    | __main__:main:39 - Bot crashed: Google credentials not found at: path/to/credentials.json
+Traceback (most recent call last):
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/main.py", line 43, in <module>
+    main()
+    └ <function main at 0x7dcf4beea840>
+
+> File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/main.py", line 33, in main
+    bot = SalesBot()
+          └ <class 'bot.SalesBot'>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/bot.py", line 19, in __init__
+    config.validate_paths()
+    │      └ <function Config.validate_paths at 0x7dcf4aa5f600>
+    └ Config(PROJECT_ROOT=PosixPath('/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent'), CHROMA_DB_PATH=PosixPath('/home/ysrmax...
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/config.py", line 46, in validate_paths
+    raise FileNotFoundError(
+
+FileNotFoundError: Google credentials not found at: path/to/credentials.json
+2025-02-06 06:06:50.602 | INFO     | __main__:main:31 - Starting Sales Assistant Bot
+2025-02-06 06:06:50.603 | DEBUG    | config:validate_paths:44 - Validating Google credentials path: /home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/llamych-a7b91766d90b.json
+2025-02-06 06:06:55.581 | INFO     | vector_store:__init__:20 - Vector store initialized successfully
+2025-02-06 06:06:55.585 | INFO     | google_sheets:__init__:20 - Google Sheets API initialized successfully
+2025-02-06 06:06:57.468 | ERROR    | google_sheets:load_from_sheet:51 - HTTP error occurred: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+2025-02-06 06:07:02.249 | ERROR    | google_sheets:load_from_sheet:51 - HTTP error occurred: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+2025-02-06 06:07:07.025 | ERROR    | google_sheets:load_from_sheet:51 - HTTP error occurred: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+2025-02-06 06:07:07.026 | ERROR    | bot:_load_qa_data:41 - Failed to load QA data: RetryError[<Future at 0x74709b14ac00 state=finished raised HttpError>]
+2025-02-06 06:07:07.026 | ERROR    | bot:__init__:32 - Failed to initialize sales bot: RetryError[<Future at 0x74709b14ac00 state=finished raised HttpError>]
+2025-02-06 06:07:07.026 | ERROR    | __main__:main:39 - Bot crashed: RetryError[<Future at 0x74709b14ac00 state=finished raised HttpError>]
+Traceback (most recent call last):
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 382, in __call__
+    result = fn(*args, **kwargs)
+             │   │       └ {}
+             │   └ (<google_sheets.GoogleSheetsLoader object at 0x7470a556b770>,)
+             └ <function GoogleSheetsLoader.load_from_sheet at 0x74718eece020>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/google_sheets.py", line 32, in load_from_sheet
+    ).execute()
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/googleapiclient/_helpers.py", line 130, in positional_wrapper
+    return wrapped(*args, **kwargs)
+           │        │       └ {}
+           │        └ (<googleapiclient.http.HttpRequest object at 0x74709b148110>,)
+           └ <function HttpRequest.execute at 0x74718eebaa20>
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/googleapiclient/http.py", line 938, in execute
+    raise HttpError(resp, content, uri=self.uri)
+          │         │     │            │    └ 'https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/A%3AB?alt=json'
+          │         │     │            └ <googleapiclient.http.HttpRequest object at 0x74709b148110>
+          │         │     └ b'{\n  "error": {\n    "code": 404,\n    "message": "Requested entity was not found.",\n    "status": "NOT_FOUND"\n  }\n}\n'
+          │         └ {'vary': 'Origin, X-Origin, Referer', 'content-type': 'application/json; charset=UTF-8', 'date': 'Thu, 06 Feb 2025 00:07:07 G...
+          └ <class 'googleapiclient.errors.HttpError'>
+
+googleapiclient.errors.HttpError: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+
+
+The above exception was the direct cause of the following exception:
+
+
+Traceback (most recent call last):
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/main.py", line 43, in <module>
+    main()
+    └ <function main at 0x7471b51e6840>
+
+> File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/main.py", line 33, in main
+    bot = SalesBot()
+          └ <class 'bot.SalesBot'>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/bot.py", line 28, in __init__
+    self._load_qa_data()
+    │    └ <function SalesBot._load_qa_data at 0x74718f6ac680>
+    └ <bot.SalesBot object at 0x7471b0e1b410>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/bot.py", line 38, in _load_qa_data
+    df = self.sheets_loader.load_from_sheet()
+         │    │             └ <function GoogleSheetsLoader.load_from_sheet at 0x74718eece160>
+         │    └ <google_sheets.GoogleSheetsLoader object at 0x7470a556b770>
+         └ <bot.SalesBot object at 0x7471b0e1b410>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 289, in wrapped_f
+    return self(f, *args, **kw)
+           │    │   │       └ {}
+           │    │   └ (<google_sheets.GoogleSheetsLoader object at 0x7470a556b770>,)
+           │    └ <function GoogleSheetsLoader.load_from_sheet at 0x74718eece020>
+           └ <Retrying object at 0x74718f08c590 (stop=<tenacity.stop.stop_after_attempt object at 0x74718f7be900>, wait=<tenacity.wait.wai...
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 379, in __call__
+    do = self.iter(retry_state=retry_state)
+         │    │                └ <RetryCallState 128026985130432: attempt #3; slept for 8.0; last result: failed (HttpError <HttpError 404 when requesting htt...
+         │    └ <function BaseRetrying.iter at 0x74719238e3e0>
+         └ <Retrying object at 0x74718f08c590 (stop=<tenacity.stop.stop_after_attempt object at 0x74718f7be900>, wait=<tenacity.wait.wai...
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 326, in iter
+    raise retry_exc from fut.exception()
+          │              │   └ <function Future.exception at 0x7471b5a704a0>
+          │              └ <Future at 0x74709b14ac00 state=finished raised HttpError>
+          └ RetryError(<Future at 0x74709b14ac00 state=finished raised HttpError>)
+
+tenacity.RetryError: RetryError[<Future at 0x74709b14ac00 state=finished raised HttpError>]
+2025-02-06 06:11:27.322 | INFO     | __main__:main:31 - Starting Sales Assistant Bot
+2025-02-06 06:11:27.322 | DEBUG    | config:validate_paths:44 - Validating Google credentials path: /home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/llamych-a7b91766d90b.json
+2025-02-06 06:11:32.188 | INFO     | vector_store:__init__:20 - Vector store initialized successfully
+2025-02-06 06:11:32.192 | INFO     | google_sheets:__init__:20 - Google Sheets API initialized successfully
+2025-02-06 06:11:33.649 | ERROR    | google_sheets:load_from_sheet:51 - HTTP error occurred: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+2025-02-06 06:11:38.670 | ERROR    | google_sheets:load_from_sheet:51 - HTTP error occurred: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+2025-02-06 06:11:44.018 | ERROR    | google_sheets:load_from_sheet:51 - HTTP error occurred: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+2025-02-06 06:11:44.018 | ERROR    | bot:_load_qa_data:41 - Failed to load QA data: RetryError[<Future at 0x76e724525370 state=finished raised HttpError>]
+2025-02-06 06:11:44.019 | ERROR    | bot:__init__:32 - Failed to initialize sales bot: RetryError[<Future at 0x76e724525370 state=finished raised HttpError>]
+2025-02-06 06:11:44.019 | ERROR    | __main__:main:39 - Bot crashed: RetryError[<Future at 0x76e724525370 state=finished raised HttpError>]
+Traceback (most recent call last):
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 382, in __call__
+    result = fn(*args, **kwargs)
+             │   │       └ {}
+             │   └ (<google_sheets.GoogleSheetsLoader object at 0x76e7877b2a20>,)
+             └ <function GoogleSheetsLoader.load_from_sheet at 0x76e8184b2020>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/google_sheets.py", line 32, in load_from_sheet
+    ).execute()
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/googleapiclient/_helpers.py", line 130, in positional_wrapper
+    return wrapped(*args, **kwargs)
+           │        │       └ {}
+           │        └ (<googleapiclient.http.HttpRequest object at 0x76e724526690>,)
+           └ <function HttpRequest.execute at 0x76e81849ea20>
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/googleapiclient/http.py", line 938, in execute
+    raise HttpError(resp, content, uri=self.uri)
+          │         │     │            │    └ 'https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/A%3AB?alt=json'
+          │         │     │            └ <googleapiclient.http.HttpRequest object at 0x76e724526690>
+          │         │     └ b'{\n  "error": {\n    "code": 404,\n    "message": "Requested entity was not found.",\n    "status": "NOT_FOUND"\n  }\n}\n'
+          │         └ {'vary': 'Origin, X-Origin, Referer', 'content-type': 'application/json; charset=UTF-8', 'date': 'Thu, 06 Feb 2025 00:11:43 G...
+          └ <class 'googleapiclient.errors.HttpError'>
+
+googleapiclient.errors.HttpError: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+
+
+The above exception was the direct cause of the following exception:
+
+
+Traceback (most recent call last):
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/main.py", line 43, in <module>
+    main()
+    └ <function main at 0x76e83e73e840>
+
+> File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/main.py", line 33, in main
+    bot = SalesBot()
+          └ <class 'bot.SalesBot'>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/bot.py", line 28, in __init__
+    self._load_qa_data()
+    │    └ <function SalesBot._load_qa_data at 0x76e818c8c680>
+    └ <bot.SalesBot object at 0x76e8184a5520>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/bot.py", line 38, in _load_qa_data
+    df = self.sheets_loader.load_from_sheet()
+         │    │             └ <function GoogleSheetsLoader.load_from_sheet at 0x76e8184b2160>
+         │    └ <google_sheets.GoogleSheetsLoader object at 0x76e7877b2a20>
+         └ <bot.SalesBot object at 0x76e8184a5520>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 289, in wrapped_f
+    return self(f, *args, **kw)
+           │    │   │       └ {}
+           │    │   └ (<google_sheets.GoogleSheetsLoader object at 0x76e7877b2a20>,)
+           │    └ <function GoogleSheetsLoader.load_from_sheet at 0x76e8184b2020>
+           └ <Retrying object at 0x76e8184a5010 (stop=<tenacity.stop.stop_after_attempt object at 0x76e81b7c56d0>, wait=<tenacity.wait.wai...
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 379, in __call__
+    do = self.iter(retry_state=retry_state)
+         │    │                └ <RetryCallState 130735121328672: attempt #3; slept for 8.0; last result: failed (HttpError <HttpError 404 when requesting htt...
+         │    └ <function BaseRetrying.iter at 0x76e81b9723e0>
+         └ <Retrying object at 0x76e8184a5010 (stop=<tenacity.stop.stop_after_attempt object at 0x76e81b7c56d0>, wait=<tenacity.wait.wai...
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 326, in iter
+    raise retry_exc from fut.exception()
+          │              │   └ <function Future.exception at 0x76e83efe04a0>
+          │              └ <Future at 0x76e724525370 state=finished raised HttpError>
+          └ RetryError(<Future at 0x76e724525370 state=finished raised HttpError>)
+
+tenacity.RetryError: RetryError[<Future at 0x76e724525370 state=finished raised HttpError>]
+2025-02-06 06:12:21.546 | INFO     | __main__:main:31 - Starting Sales Assistant Bot
+2025-02-06 06:12:21.547 | DEBUG    | config:validate_paths:44 - Validating Google credentials path: /home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/llamych-a7b91766d90b.json
+2025-02-06 06:12:26.757 | INFO     | vector_store:__init__:20 - Vector store initialized successfully
+2025-02-06 06:12:26.760 | INFO     | google_sheets:__init__:20 - Google Sheets API initialized successfully
+2025-02-06 06:12:28.019 | ERROR    | google_sheets:load_from_sheet:51 - HTTP error occurred: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+2025-02-06 06:12:32.371 | ERROR    | google_sheets:load_from_sheet:51 - HTTP error occurred: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+2025-02-06 06:12:37.389 | ERROR    | google_sheets:load_from_sheet:51 - HTTP error occurred: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+2025-02-06 06:12:37.389 | ERROR    | bot:_load_qa_data:41 - Failed to load QA data: RetryError[<Future at 0x70883c78a2a0 state=finished raised HttpError>]
+2025-02-06 06:12:37.389 | ERROR    | bot:__init__:32 - Failed to initialize sales bot: RetryError[<Future at 0x70883c78a2a0 state=finished raised HttpError>]
+2025-02-06 06:12:37.389 | ERROR    | __main__:main:39 - Bot crashed: RetryError[<Future at 0x70883c78a2a0 state=finished raised HttpError>]
+Traceback (most recent call last):
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 382, in __call__
+    result = fn(*args, **kwargs)
+             │   │       └ {}
+             │   └ (<google_sheets.GoogleSheetsLoader object at 0x70883d49c1d0>,)
+             └ <function GoogleSheetsLoader.load_from_sheet at 0x7089306ca020>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/google_sheets.py", line 32, in load_from_sheet
+    ).execute()
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/googleapiclient/_helpers.py", line 130, in positional_wrapper
+    return wrapped(*args, **kwargs)
+           │        │       └ {}
+           │        └ (<googleapiclient.http.HttpRequest object at 0x70883c78b890>,)
+           └ <function HttpRequest.execute at 0x7089306b2a20>
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/googleapiclient/http.py", line 938, in execute
+    raise HttpError(resp, content, uri=self.uri)
+          │         │     │            │    └ 'https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/A%3AB?alt=json'
+          │         │     │            └ <googleapiclient.http.HttpRequest object at 0x70883c78b890>
+          │         │     └ b'{\n  "error": {\n    "code": 404,\n    "message": "Requested entity was not found.",\n    "status": "NOT_FOUND"\n  }\n}\n'
+          │         └ {'vary': 'Origin, X-Origin, Referer', 'content-type': 'application/json; charset=UTF-8', 'date': 'Thu, 06 Feb 2025 00:12:37 G...
+          └ <class 'googleapiclient.errors.HttpError'>
+
+googleapiclient.errors.HttpError: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+
+
+The above exception was the direct cause of the following exception:
+
+
+Traceback (most recent call last):
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/main.py", line 43, in <module>
+    main()
+    └ <function main at 0x708956a3e840>
+
+> File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/main.py", line 33, in main
+    bot = SalesBot()
+          └ <class 'bot.SalesBot'>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/bot.py", line 28, in __init__
+    self._load_qa_data()
+    │    └ <function SalesBot._load_qa_data at 0x708930ea4680>
+    └ <bot.SalesBot object at 0x7089309c0bc0>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/bot.py", line 38, in _load_qa_data
+    df = self.sheets_loader.load_from_sheet()
+         │    │             └ <function GoogleSheetsLoader.load_from_sheet at 0x7089306ca160>
+         │    └ <google_sheets.GoogleSheetsLoader object at 0x70883d49c1d0>
+         └ <bot.SalesBot object at 0x7089309c0bc0>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 289, in wrapped_f
+    return self(f, *args, **kw)
+           │    │   │       └ {}
+           │    │   └ (<google_sheets.GoogleSheetsLoader object at 0x70883d49c1d0>,)
+           │    └ <function GoogleSheetsLoader.load_from_sheet at 0x7089306ca020>
+           └ <Retrying object at 0x708930856210 (stop=<tenacity.stop.stop_after_attempt object at 0x708931f82e40>, wait=<tenacity.wait.wai...
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 379, in __call__
+    do = self.iter(retry_state=retry_state)
+         │    │                └ <RetryCallState 123730432828064: attempt #3; slept for 8.0; last result: failed (HttpError <HttpError 404 when requesting htt...
+         │    └ <function BaseRetrying.iter at 0x708933b823e0>
+         └ <Retrying object at 0x708930856210 (stop=<tenacity.stop.stop_after_attempt object at 0x708931f82e40>, wait=<tenacity.wait.wai...
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 326, in iter
+    raise retry_exc from fut.exception()
+          │              │   └ <function Future.exception at 0x70895728c4a0>
+          │              └ <Future at 0x70883c78a2a0 state=finished raised HttpError>
+          └ RetryError(<Future at 0x70883c78a2a0 state=finished raised HttpError>)
+
+tenacity.RetryError: RetryError[<Future at 0x70883c78a2a0 state=finished raised HttpError>]
+2025-02-06 06:13:48.591 | INFO     | __main__:main:31 - Starting Sales Assistant Bot
+2025-02-06 06:13:48.592 | DEBUG    | config:validate_paths:50 - Validating Google credentials path: /home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/llamych-a7b91766d90b.json
+2025-02-06 06:13:54.433 | INFO     | vector_store:__init__:20 - Vector store initialized successfully
+2025-02-06 06:13:54.437 | INFO     | google_sheets:__init__:20 - Google Sheets API initialized successfully
+2025-02-06 06:13:55.886 | ERROR    | google_sheets:load_from_sheet:51 - HTTP error occurred: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+2025-02-06 06:14:00.772 | ERROR    | google_sheets:load_from_sheet:51 - HTTP error occurred: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+2025-02-06 06:14:05.718 | ERROR    | google_sheets:load_from_sheet:51 - HTTP error occurred: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+2025-02-06 06:14:05.718 | ERROR    | bot:_load_qa_data:41 - Failed to load QA data: RetryError[<Future at 0x7f748a730140 state=finished raised HttpError>]
+2025-02-06 06:14:05.718 | ERROR    | bot:__init__:32 - Failed to initialize sales bot: RetryError[<Future at 0x7f748a730140 state=finished raised HttpError>]
+2025-02-06 06:14:05.718 | ERROR    | __main__:main:39 - Bot crashed: RetryError[<Future at 0x7f748a730140 state=finished raised HttpError>]
+Traceback (most recent call last):
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 382, in __call__
+    result = fn(*args, **kwargs)
+             │   │       └ {}
+             │   └ (<google_sheets.GoogleSheetsLoader object at 0x7f74973ab770>,)
+             └ <function GoogleSheetsLoader.load_from_sheet at 0x7f757e6b2340>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/google_sheets.py", line 32, in load_from_sheet
+    ).execute()
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/googleapiclient/_helpers.py", line 130, in positional_wrapper
+    return wrapped(*args, **kwargs)
+           │        │       └ {}
+           │        └ (<googleapiclient.http.HttpRequest object at 0x7f748a77ab10>,)
+           └ <function HttpRequest.execute at 0x7f757e6aad40>
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/googleapiclient/http.py", line 938, in execute
+    raise HttpError(resp, content, uri=self.uri)
+          │         │     │            │    └ 'https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/A%3AB?alt=json'
+          │         │     │            └ <googleapiclient.http.HttpRequest object at 0x7f748a77ab10>
+          │         │     └ b'{\n  "error": {\n    "code": 404,\n    "message": "Requested entity was not found.",\n    "status": "NOT_FOUND"\n  }\n}\n'
+          │         └ {'vary': 'Origin, X-Origin, Referer', 'content-type': 'application/json; charset=UTF-8', 'date': 'Thu, 06 Feb 2025 00:14:06 G...
+          └ <class 'googleapiclient.errors.HttpError'>
+
+googleapiclient.errors.HttpError: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+
+
+The above exception was the direct cause of the following exception:
+
+
+Traceback (most recent call last):
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/main.py", line 43, in <module>
+    main()
+    └ <function main at 0x7f75a493e840>
+
+> File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/main.py", line 33, in main
+    bot = SalesBot()
+          └ <class 'bot.SalesBot'>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/bot.py", line 28, in __init__
+    self._load_qa_data()
+    │    └ <function SalesBot._load_qa_data at 0x7f757ee889a0>
+    └ <bot.SalesBot object at 0x7f757e9b0ec0>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/bot.py", line 38, in _load_qa_data
+    df = self.sheets_loader.load_from_sheet()
+         │    │             └ <function GoogleSheetsLoader.load_from_sheet at 0x7f757e6b2480>
+         │    └ <google_sheets.GoogleSheetsLoader object at 0x7f74973ab770>
+         └ <bot.SalesBot object at 0x7f757e9b0ec0>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 289, in wrapped_f
+    return self(f, *args, **kw)
+           │    │   │       └ {}
+           │    │   └ (<google_sheets.GoogleSheetsLoader object at 0x7f74973ab770>,)
+           │    └ <function GoogleSheetsLoader.load_from_sheet at 0x7f757e6b2340>
+           └ <Retrying object at 0x7f757e6a4770 (stop=<tenacity.stop.stop_after_attempt object at 0x7f757e8261b0>, wait=<tenacity.wait.wai...
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 379, in __call__
+    do = self.iter(retry_state=retry_state)
+         │    │                └ <RetryCallState 140138518164256: attempt #3; slept for 8.0; last result: failed (HttpError <HttpError 404 when requesting htt...
+         │    └ <function BaseRetrying.iter at 0x7f7581b7a700>
+         └ <Retrying object at 0x7f757e6a4770 (stop=<tenacity.stop.stop_after_attempt object at 0x7f757e8261b0>, wait=<tenacity.wait.wai...
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 326, in iter
+    raise retry_exc from fut.exception()
+          │              │   └ <function Future.exception at 0x7f75a51e04a0>
+          │              └ <Future at 0x7f748a730140 state=finished raised HttpError>
+          └ RetryError(<Future at 0x7f748a730140 state=finished raised HttpError>)
+
+tenacity.RetryError: RetryError[<Future at 0x7f748a730140 state=finished raised HttpError>]
+2025-02-06 06:14:58.598 | INFO     | __main__:main:31 - Starting Sales Assistant Bot
+2025-02-06 06:14:58.599 | DEBUG    | config:validate_paths:50 - Validating Google credentials path: /home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/llamych-a7b91766d90b.json
+2025-02-06 06:15:03.620 | INFO     | vector_store:__init__:20 - Vector store initialized successfully
+2025-02-06 06:15:03.624 | INFO     | google_sheets:__init__:20 - Google Sheets API initialized successfully
+2025-02-06 06:15:05.163 | ERROR    | google_sheets:load_from_sheet:51 - HTTP error occurred: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/questionsa.csv%21A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+2025-02-06 06:15:10.016 | ERROR    | google_sheets:load_from_sheet:51 - HTTP error occurred: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/questionsa.csv%21A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+2025-02-06 06:15:14.826 | ERROR    | google_sheets:load_from_sheet:51 - HTTP error occurred: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/questionsa.csv%21A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+2025-02-06 06:15:14.826 | ERROR    | bot:_load_qa_data:41 - Failed to load QA data: RetryError[<Future at 0x7328404fd2e0 state=finished raised HttpError>]
+2025-02-06 06:15:14.829 | ERROR    | bot:__init__:32 - Failed to initialize sales bot: RetryError[<Future at 0x7328404fd2e0 state=finished raised HttpError>]
+2025-02-06 06:15:14.829 | ERROR    | __main__:main:39 - Bot crashed: RetryError[<Future at 0x7328404fd2e0 state=finished raised HttpError>]
+Traceback (most recent call last):
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 382, in __call__
+    result = fn(*args, **kwargs)
+             │   │       └ {}
+             │   └ (<google_sheets.GoogleSheetsLoader object at 0x732840ebc0e0>,)
+             └ <function GoogleSheetsLoader.load_from_sheet at 0x7329342ae340>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/google_sheets.py", line 32, in load_from_sheet
+    ).execute()
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/googleapiclient/_helpers.py", line 130, in positional_wrapper
+    return wrapped(*args, **kwargs)
+           │        │       └ {}
+           │        └ (<googleapiclient.http.HttpRequest object at 0x7328404fff20>,)
+           └ <function HttpRequest.execute at 0x7329342a2d40>
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/googleapiclient/http.py", line 938, in execute
+    raise HttpError(resp, content, uri=self.uri)
+          │         │     │            │    └ 'https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/questionsa.csv%21A%3AB?alt=...
+          │         │     │            └ <googleapiclient.http.HttpRequest object at 0x7328404fff20>
+          │         │     └ b'{\n  "error": {\n    "code": 404,\n    "message": "Requested entity was not found.",\n    "status": "NOT_FOUND"\n  }\n}\n'
+          │         └ {'vary': 'Origin, X-Origin, Referer', 'content-type': 'application/json; charset=UTF-8', 'date': 'Thu, 06 Feb 2025 00:15:15 G...
+          └ <class 'googleapiclient.errors.HttpError'>
+
+googleapiclient.errors.HttpError: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/questionsa.csv%21A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+
+
+The above exception was the direct cause of the following exception:
+
+
+Traceback (most recent call last):
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/main.py", line 43, in <module>
+    main()
+    └ <function main at 0x73295a63e840>
+
+> File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/main.py", line 33, in main
+    bot = SalesBot()
+          └ <class 'bot.SalesBot'>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/bot.py", line 28, in __init__
+    self._load_qa_data()
+    │    └ <function SalesBot._load_qa_data at 0x732934a7c9a0>
+    └ <bot.SalesBot object at 0x7329342a92b0>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/bot.py", line 38, in _load_qa_data
+    df = self.sheets_loader.load_from_sheet()
+         │    │             └ <function GoogleSheetsLoader.load_from_sheet at 0x7329342ae480>
+         │    └ <google_sheets.GoogleSheetsLoader object at 0x732840ebc0e0>
+         └ <bot.SalesBot object at 0x7329342a92b0>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 289, in wrapped_f
+    return self(f, *args, **kw)
+           │    │   │       └ {}
+           │    │   └ (<google_sheets.GoogleSheetsLoader object at 0x732840ebc0e0>,)
+           │    └ <function GoogleSheetsLoader.load_from_sheet at 0x7329342ae340>
+           └ <Retrying object at 0x732934442210 (stop=<tenacity.stop.stop_after_attempt object at 0x732935bba0c0>, wait=<tenacity.wait.wai...
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 379, in __call__
+    do = self.iter(retry_state=retry_state)
+         │    │                └ <RetryCallState 126616872151440: attempt #3; slept for 8.0; last result: failed (HttpError <HttpError 404 when requesting htt...
+         │    └ <function BaseRetrying.iter at 0x732937792700>
+         └ <Retrying object at 0x732934442210 (stop=<tenacity.stop.stop_after_attempt object at 0x732935bba0c0>, wait=<tenacity.wait.wai...
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 326, in iter
+    raise retry_exc from fut.exception()
+          │              │   └ <function Future.exception at 0x73295aee44a0>
+          │              └ <Future at 0x7328404fd2e0 state=finished raised HttpError>
+          └ RetryError(<Future at 0x7328404fd2e0 state=finished raised HttpError>)
+
+tenacity.RetryError: RetryError[<Future at 0x7328404fd2e0 state=finished raised HttpError>]
+2025-02-06 06:20:46.094 | INFO     | __main__:main:31 - Starting Sales Assistant Bot
+2025-02-06 06:20:46.094 | DEBUG    | config:validate_paths:50 - Validating Google credentials path: /home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/llamych-a7b91766d90b.json
+2025-02-06 06:20:52.118 | INFO     | vector_store:__init__:20 - Vector store initialized successfully
+2025-02-06 06:20:52.123 | INFO     | google_sheets:__init__:20 - Google Sheets API initialized successfully
+2025-02-06 06:20:53.777 | ERROR    | google_sheets:load_from_sheet:51 - HTTP error occurred: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/questionsa.csv%21A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+2025-02-06 06:20:58.713 | ERROR    | google_sheets:load_from_sheet:51 - HTTP error occurred: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/questionsa.csv%21A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+2025-02-06 06:21:03.628 | ERROR    | google_sheets:load_from_sheet:51 - HTTP error occurred: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/questionsa.csv%21A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+2025-02-06 06:21:03.628 | ERROR    | bot:_load_qa_data:41 - Failed to load QA data: RetryError[<Future at 0x725260ce29f0 state=finished raised HttpError>]
+2025-02-06 06:21:03.628 | ERROR    | bot:__init__:32 - Failed to initialize sales bot: RetryError[<Future at 0x725260ce29f0 state=finished raised HttpError>]
+2025-02-06 06:21:03.628 | ERROR    | __main__:main:39 - Bot crashed: RetryError[<Future at 0x725260ce29f0 state=finished raised HttpError>]
+Traceback (most recent call last):
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 382, in __call__
+    result = fn(*args, **kwargs)
+             │   │       └ {}
+             │   └ (<google_sheets.GoogleSheetsLoader object at 0x7252613f24e0>,)
+             └ <function GoogleSheetsLoader.load_from_sheet at 0x725354cca340>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/google_sheets.py", line 32, in load_from_sheet
+    ).execute()
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/googleapiclient/_helpers.py", line 130, in positional_wrapper
+    return wrapped(*args, **kwargs)
+           │        │       └ {}
+           │        └ (<googleapiclient.http.HttpRequest object at 0x725260ceea80>,)
+           └ <function HttpRequest.execute at 0x725354cc2d40>
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/googleapiclient/http.py", line 938, in execute
+    raise HttpError(resp, content, uri=self.uri)
+          │         │     │            │    └ 'https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/questionsa.csv%21A%3AB?alt=...
+          │         │     │            └ <googleapiclient.http.HttpRequest object at 0x725260ceea80>
+          │         │     └ b'{\n  "error": {\n    "code": 404,\n    "message": "Requested entity was not found.",\n    "status": "NOT_FOUND"\n  }\n}\n'
+          │         └ {'vary': 'Origin, X-Origin, Referer', 'content-type': 'application/json; charset=UTF-8', 'date': 'Thu, 06 Feb 2025 00:21:03 G...
+          └ <class 'googleapiclient.errors.HttpError'>
+
+googleapiclient.errors.HttpError: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/questionsa.csv%21A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+
+
+The above exception was the direct cause of the following exception:
+
+
+Traceback (most recent call last):
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/main.py", line 43, in <module>
+    main()
+    └ <function main at 0x72537afea840>
+
+> File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/main.py", line 33, in main
+    bot = SalesBot()
+          └ <class 'bot.SalesBot'>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/bot.py", line 28, in __init__
+    self._load_qa_data()
+    │    └ <function SalesBot._load_qa_data at 0x72535549c9a0>
+    └ <bot.SalesBot object at 0x725354e3e0f0>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/bot.py", line 38, in _load_qa_data
+    df = self.sheets_loader.load_from_sheet()
+         │    │             └ <function GoogleSheetsLoader.load_from_sheet at 0x725354cca480>
+         │    └ <google_sheets.GoogleSheetsLoader object at 0x7252613f24e0>
+         └ <bot.SalesBot object at 0x725354e3e0f0>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 289, in wrapped_f
+    return self(f, *args, **kw)
+           │    │   │       └ {}
+           │    │   └ (<google_sheets.GoogleSheetsLoader object at 0x7252613f24e0>,)
+           │    └ <function GoogleSheetsLoader.load_from_sheet at 0x725354cca340>
+           └ <Retrying object at 0x725354cbd820 (stop=<tenacity.stop.stop_after_attempt object at 0x72535547bfb0>, wait=<tenacity.wait.wai...
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 379, in __call__
+    do = self.iter(retry_state=retry_state)
+         │    │                └ <RetryCallState 125698136533968: attempt #3; slept for 8.0; last result: failed (HttpError <HttpError 404 when requesting htt...
+         │    └ <function BaseRetrying.iter at 0x725358192700>
+         └ <Retrying object at 0x725354cbd820 (stop=<tenacity.stop.stop_after_attempt object at 0x72535547bfb0>, wait=<tenacity.wait.wai...
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 326, in iter
+    raise retry_exc from fut.exception()
+          │              │   └ <function Future.exception at 0x72537b8744a0>
+          │              └ <Future at 0x725260ce29f0 state=finished raised HttpError>
+          └ RetryError(<Future at 0x725260ce29f0 state=finished raised HttpError>)
+
+tenacity.RetryError: RetryError[<Future at 0x725260ce29f0 state=finished raised HttpError>]
+2025-02-06 06:22:06.599 | INFO     | __main__:main:31 - Starting Sales Assistant Bot
+2025-02-06 06:22:06.599 | DEBUG    | config:validate_paths:50 - Validating Google credentials path: /home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/llamych-a7b91766d90b.json
+2025-02-06 06:22:11.781 | INFO     | vector_store:__init__:20 - Vector store initialized successfully
+2025-02-06 06:22:11.785 | INFO     | google_sheets:__init__:20 - Google Sheets API initialized successfully
+2025-02-06 06:22:13.414 | ERROR    | google_sheets:load_from_sheet:51 - HTTP error occurred: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/questionsa.csv%21A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+2025-02-06 06:22:18.227 | ERROR    | google_sheets:load_from_sheet:51 - HTTP error occurred: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/questionsa.csv%21A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+2025-02-06 06:22:23.033 | ERROR    | google_sheets:load_from_sheet:51 - HTTP error occurred: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/questionsa.csv%21A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+2025-02-06 06:22:23.033 | ERROR    | bot:_load_qa_data:41 - Failed to load QA data: RetryError[<Future at 0x765a26be5490 state=finished raised HttpError>]
+2025-02-06 06:22:23.034 | ERROR    | bot:__init__:32 - Failed to initialize sales bot: RetryError[<Future at 0x765a26be5490 state=finished raised HttpError>]
+2025-02-06 06:22:23.034 | ERROR    | __main__:main:39 - Bot crashed: RetryError[<Future at 0x765a26be5490 state=finished raised HttpError>]
+Traceback (most recent call last):
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 382, in __call__
+    result = fn(*args, **kwargs)
+             │   │       └ {}
+             │   └ (<google_sheets.GoogleSheetsLoader object at 0x765a275827e0>,)
+             └ <function GoogleSheetsLoader.load_from_sheet at 0x765b1acd2340>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/google_sheets.py", line 32, in load_from_sheet
+    ).execute()
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/googleapiclient/_helpers.py", line 130, in positional_wrapper
+    return wrapped(*args, **kwargs)
+           │        │       └ {}
+           │        └ (<googleapiclient.http.HttpRequest object at 0x765a26be7e00>,)
+           └ <function HttpRequest.execute at 0x765b1acc2d40>
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/googleapiclient/http.py", line 938, in execute
+    raise HttpError(resp, content, uri=self.uri)
+          │         │     │            │    └ 'https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/questionsa.csv%21A%3AB?alt=...
+          │         │     │            └ <googleapiclient.http.HttpRequest object at 0x765a26be7e00>
+          │         │     └ b'{\n  "error": {\n    "code": 404,\n    "message": "Requested entity was not found.",\n    "status": "NOT_FOUND"\n  }\n}\n'
+          │         └ {'vary': 'Origin, X-Origin, Referer', 'content-type': 'application/json; charset=UTF-8', 'date': 'Thu, 06 Feb 2025 00:22:22 G...
+          └ <class 'googleapiclient.errors.HttpError'>
+
+googleapiclient.errors.HttpError: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/questionsa.csv%21A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+
+
+The above exception was the direct cause of the following exception:
+
+
+Traceback (most recent call last):
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/main.py", line 43, in <module>
+    main()
+    └ <function main at 0x765b40f3e840>
+
+> File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/main.py", line 33, in main
+    bot = SalesBot()
+          └ <class 'bot.SalesBot'>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/bot.py", line 28, in __init__
+    self._load_qa_data()
+    │    └ <function SalesBot._load_qa_data at 0x765b1b4a09a0>
+    └ <bot.SalesBot object at 0x765b3cb43350>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/bot.py", line 38, in _load_qa_data
+    df = self.sheets_loader.load_from_sheet()
+         │    │             └ <function GoogleSheetsLoader.load_from_sheet at 0x765b1acd2480>
+         │    └ <google_sheets.GoogleSheetsLoader object at 0x765a275827e0>
+         └ <bot.SalesBot object at 0x765b3cb43350>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 289, in wrapped_f
+    return self(f, *args, **kw)
+           │    │   │       └ {}
+           │    │   └ (<google_sheets.GoogleSheetsLoader object at 0x765a275827e0>,)
+           │    └ <function GoogleSheetsLoader.load_from_sheet at 0x765b1acd2340>
+           └ <Retrying object at 0x765b1acc8fb0 (stop=<tenacity.stop.stop_after_attempt object at 0x765b1dfea3f0>, wait=<tenacity.wait.wai...
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 379, in __call__
+    do = self.iter(retry_state=retry_state)
+         │    │                └ <RetryCallState 130129568295024: attempt #3; slept for 8.0; last result: failed (HttpError <HttpError 404 when requesting htt...
+         │    └ <function BaseRetrying.iter at 0x765b1e196700>
+         └ <Retrying object at 0x765b1acc8fb0 (stop=<tenacity.stop.stop_after_attempt object at 0x765b1dfea3f0>, wait=<tenacity.wait.wai...
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 326, in iter
+    raise retry_exc from fut.exception()
+          │              │   └ <function Future.exception at 0x765b417884a0>
+          │              └ <Future at 0x765a26be5490 state=finished raised HttpError>
+          └ RetryError(<Future at 0x765a26be5490 state=finished raised HttpError>)
+
+tenacity.RetryError: RetryError[<Future at 0x765a26be5490 state=finished raised HttpError>]
+2025-02-06 06:22:32.855 | INFO     | __main__:main:31 - Starting Sales Assistant Bot
+2025-02-06 06:22:32.856 | DEBUG    | config:validate_paths:50 - Validating Google credentials path: /home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/llamych-a7b91766d90b.json
+2025-02-06 06:22:37.640 | INFO     | vector_store:__init__:20 - Vector store initialized successfully
+2025-02-06 06:22:37.645 | INFO     | google_sheets:__init__:20 - Google Sheets API initialized successfully
+2025-02-06 06:22:39.200 | ERROR    | google_sheets:load_from_sheet:51 - HTTP error occurred: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/questionsa.csv%21A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+2025-02-06 06:22:44.086 | ERROR    | google_sheets:load_from_sheet:51 - HTTP error occurred: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/questionsa.csv%21A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+2025-02-06 06:22:48.944 | ERROR    | google_sheets:load_from_sheet:51 - HTTP error occurred: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/questionsa.csv%21A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+2025-02-06 06:22:48.945 | ERROR    | bot:_load_qa_data:41 - Failed to load QA data: RetryError[<Future at 0x7a2c7a44aa80 state=finished raised HttpError>]
+2025-02-06 06:22:48.945 | ERROR    | bot:__init__:32 - Failed to initialize sales bot: RetryError[<Future at 0x7a2c7a44aa80 state=finished raised HttpError>]
+2025-02-06 06:22:48.945 | ERROR    | __main__:main:39 - Bot crashed: RetryError[<Future at 0x7a2c7a44aa80 state=finished raised HttpError>]
+Traceback (most recent call last):
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 382, in __call__
+    result = fn(*args, **kwargs)
+             │   │       └ {}
+             │   └ (<google_sheets.GoogleSheetsLoader object at 0x7a2c7a4871a0>,)
+             └ <function GoogleSheetsLoader.load_from_sheet at 0x7a2d6e0ce340>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/google_sheets.py", line 32, in load_from_sheet
+    ).execute()
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/googleapiclient/_helpers.py", line 130, in positional_wrapper
+    return wrapped(*args, **kwargs)
+           │        │       └ {}
+           │        └ (<googleapiclient.http.HttpRequest object at 0x7a2c79feba40>,)
+           └ <function HttpRequest.execute at 0x7a2d6e0bed40>
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/googleapiclient/http.py", line 938, in execute
+    raise HttpError(resp, content, uri=self.uri)
+          │         │     │            │    └ 'https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/questionsa.csv%21A%3AB?alt=...
+          │         │     │            └ <googleapiclient.http.HttpRequest object at 0x7a2c79feba40>
+          │         │     └ b'{\n  "error": {\n    "code": 404,\n    "message": "Requested entity was not found.",\n    "status": "NOT_FOUND"\n  }\n}\n'
+          │         └ {'vary': 'Origin, X-Origin, Referer', 'content-type': 'application/json; charset=UTF-8', 'date': 'Thu, 06 Feb 2025 00:22:48 G...
+          └ <class 'googleapiclient.errors.HttpError'>
+
+googleapiclient.errors.HttpError: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/questionsa.csv%21A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+
+
+The above exception was the direct cause of the following exception:
+
+
+Traceback (most recent call last):
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/main.py", line 43, in <module>
+    main()
+    └ <function main at 0x7a2d9433e840>
+
+> File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/main.py", line 33, in main
+    bot = SalesBot()
+          └ <class 'bot.SalesBot'>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/bot.py", line 28, in __init__
+    self._load_qa_data()
+    │    └ <function SalesBot._load_qa_data at 0x7a2d6e8989a0>
+    └ <bot.SalesBot object at 0x7a2d8ffcb350>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/bot.py", line 38, in _load_qa_data
+    df = self.sheets_loader.load_from_sheet()
+         │    │             └ <function GoogleSheetsLoader.load_from_sheet at 0x7a2d6e0ce480>
+         │    └ <google_sheets.GoogleSheetsLoader object at 0x7a2c7a4871a0>
+         └ <bot.SalesBot object at 0x7a2d8ffcb350>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 289, in wrapped_f
+    return self(f, *args, **kw)
+           │    │   │       └ {}
+           │    │   └ (<google_sheets.GoogleSheetsLoader object at 0x7a2c7a4871a0>,)
+           │    └ <function GoogleSheetsLoader.load_from_sheet at 0x7a2d6e0ce340>
+           └ <Retrying object at 0x7a2d6e0c4e30 (stop=<tenacity.stop.stop_after_attempt object at 0x7a2d71dfbef0>, wait=<tenacity.wait.wai...
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 379, in __call__
+    do = self.iter(retry_state=retry_state)
+         │    │                └ <RetryCallState 134331443045456: attempt #3; slept for 8.0; last result: failed (HttpError <HttpError 404 when requesting htt...
+         │    └ <function BaseRetrying.iter at 0x7a2d71592700>
+         └ <Retrying object at 0x7a2d6e0c4e30 (stop=<tenacity.stop.stop_after_attempt object at 0x7a2d71dfbef0>, wait=<tenacity.wait.wai...
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 326, in iter
+    raise retry_exc from fut.exception()
+          │              │   └ <function Future.exception at 0x7a2d94bac4a0>
+          │              └ <Future at 0x7a2c7a44aa80 state=finished raised HttpError>
+          └ RetryError(<Future at 0x7a2c7a44aa80 state=finished raised HttpError>)
+
+tenacity.RetryError: RetryError[<Future at 0x7a2c7a44aa80 state=finished raised HttpError>]
+2025-02-07 02:49:56.033 | INFO     | __main__:main:31 - Starting Sales Assistant Bot
+2025-02-07 02:49:56.033 | DEBUG    | config:validate_paths:50 - Validating Google credentials path: /home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/llamych-a7b91766d90b.json
+2025-02-07 02:50:04.280 | INFO     | vector_store:__init__:20 - Vector store initialized successfully
+2025-02-07 02:50:04.287 | INFO     | google_sheets:__init__:20 - Google Sheets API initialized successfully
+2025-02-07 02:50:06.157 | ERROR    | google_sheets:load_from_sheet:51 - HTTP error occurred: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/questionsa.csv%21A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+2025-02-07 02:50:11.018 | ERROR    | google_sheets:load_from_sheet:51 - HTTP error occurred: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/questionsa.csv%21A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+2025-02-07 02:50:15.984 | ERROR    | google_sheets:load_from_sheet:51 - HTTP error occurred: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/questionsa.csv%21A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+2025-02-07 02:50:15.984 | ERROR    | bot:_load_qa_data:41 - Failed to load QA data: RetryError[<Future at 0x722e8c1f13d0 state=finished raised HttpError>]
+2025-02-07 02:50:15.985 | ERROR    | bot:__init__:32 - Failed to initialize sales bot: RetryError[<Future at 0x722e8c1f13d0 state=finished raised HttpError>]
+2025-02-07 02:50:15.985 | ERROR    | __main__:main:39 - Bot crashed: RetryError[<Future at 0x722e8c1f13d0 state=finished raised HttpError>]
+Traceback (most recent call last):
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 382, in __call__
+    result = fn(*args, **kwargs)
+             │   │       └ {}
+             │   └ (<google_sheets.GoogleSheetsLoader object at 0x722e8c5e9a90>,)
+             └ <function GoogleSheetsLoader.load_from_sheet at 0x722f800c2340>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/google_sheets.py", line 32, in load_from_sheet
+    ).execute()
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/googleapiclient/_helpers.py", line 130, in positional_wrapper
+    return wrapped(*args, **kwargs)
+           │        │       └ {}
+           │        └ (<googleapiclient.http.HttpRequest object at 0x722e8c1f3ef0>,)
+           └ <function HttpRequest.execute at 0x722f800b6d40>
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/googleapiclient/http.py", line 938, in execute
+    raise HttpError(resp, content, uri=self.uri)
+          │         │     │            │    └ 'https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/questionsa.csv%21A%3AB?alt=...
+          │         │     │            └ <googleapiclient.http.HttpRequest object at 0x722e8c1f3ef0>
+          │         │     └ b'{\n  "error": {\n    "code": 404,\n    "message": "Requested entity was not found.",\n    "status": "NOT_FOUND"\n  }\n}\n'
+          │         └ {'vary': 'Origin, X-Origin, Referer', 'content-type': 'application/json; charset=UTF-8', 'date': 'Thu, 06 Feb 2025 20:50:15 G...
+          └ <class 'googleapiclient.errors.HttpError'>
+
+googleapiclient.errors.HttpError: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/questionsa.csv%21A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+
+
+The above exception was the direct cause of the following exception:
+
+
+Traceback (most recent call last):
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/main.py", line 43, in <module>
+    main()
+    └ <function main at 0x722fa6446840>
+
+> File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/main.py", line 33, in main
+    bot = SalesBot()
+          └ <class 'bot.SalesBot'>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/bot.py", line 28, in __init__
+    self._load_qa_data()
+    │    └ <function SalesBot._load_qa_data at 0x722f808909a0>
+    └ <bot.SalesBot object at 0x722f80280800>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/bot.py", line 38, in _load_qa_data
+    df = self.sheets_loader.load_from_sheet()
+         │    │             └ <function GoogleSheetsLoader.load_from_sheet at 0x722f800c2480>
+         │    └ <google_sheets.GoogleSheetsLoader object at 0x722e8c5e9a90>
+         └ <bot.SalesBot object at 0x722f80280800>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 289, in wrapped_f
+    return self(f, *args, **kw)
+           │    │   │       └ {}
+           │    │   └ (<google_sheets.GoogleSheetsLoader object at 0x722e8c5e9a90>,)
+           │    └ <function GoogleSheetsLoader.load_from_sheet at 0x722f800c2340>
+           └ <Retrying object at 0x722f800b1370 (stop=<tenacity.stop.stop_after_attempt object at 0x722f8086fe30>, wait=<tenacity.wait.wai...
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 379, in __call__
+    do = self.iter(retry_state=retry_state)
+         │    │                └ <RetryCallState 125544244438912: attempt #3; slept for 8.0; last result: failed (HttpError <HttpError 404 when requesting htt...
+         │    └ <function BaseRetrying.iter at 0x722f83586700>
+         └ <Retrying object at 0x722f800b1370 (stop=<tenacity.stop.stop_after_attempt object at 0x722f8086fe30>, wait=<tenacity.wait.wai...
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 326, in iter
+    raise retry_exc from fut.exception()
+          │              │   └ <function Future.exception at 0x722fa6cec4a0>
+          │              └ <Future at 0x722e8c1f13d0 state=finished raised HttpError>
+          └ RetryError(<Future at 0x722e8c1f13d0 state=finished raised HttpError>)
+
+tenacity.RetryError: RetryError[<Future at 0x722e8c1f13d0 state=finished raised HttpError>]
+2025-02-07 02:58:17.449 | INFO     | __main__:main:31 - Starting Sales Assistant Bot
+2025-02-07 02:58:17.449 | DEBUG    | config:validate_paths:50 - Validating Google credentials path: /home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/llamych-a7b91766d90b.json
+2025-02-07 02:58:27.308 | INFO     | vector_store:__init__:20 - Vector store initialized successfully
+2025-02-07 02:58:27.315 | INFO     | google_sheets:__init__:20 - Google Sheets API initialized successfully
+2025-02-07 02:58:29.178 | ERROR    | google_sheets:load_from_sheet:51 - HTTP error occurred: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/questionsa.csv%21A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+2025-02-07 02:58:34.093 | ERROR    | google_sheets:load_from_sheet:51 - HTTP error occurred: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/questionsa.csv%21A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+2025-02-07 02:58:38.904 | ERROR    | google_sheets:load_from_sheet:51 - HTTP error occurred: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/questionsa.csv%21A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+2025-02-07 02:58:38.905 | ERROR    | bot:_load_qa_data:41 - Failed to load QA data: RetryError[<Future at 0x763b41dfb050 state=finished raised HttpError>]
+2025-02-07 02:58:38.905 | ERROR    | bot:__init__:32 - Failed to initialize sales bot: RetryError[<Future at 0x763b41dfb050 state=finished raised HttpError>]
+2025-02-07 02:58:38.906 | ERROR    | __main__:main:39 - Bot crashed: RetryError[<Future at 0x763b41dfb050 state=finished raised HttpError>]
+Traceback (most recent call last):
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 382, in __call__
+    result = fn(*args, **kwargs)
+             │   │       └ {}
+             │   └ (<google_sheets.GoogleSheetsLoader object at 0x763b42493d10>,)
+             └ <function GoogleSheetsLoader.load_from_sheet at 0x763c35cbe340>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/google_sheets.py", line 32, in load_from_sheet
+    ).execute()
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/googleapiclient/_helpers.py", line 130, in positional_wrapper
+    return wrapped(*args, **kwargs)
+           │        │       └ {}
+           │        └ (<googleapiclient.http.HttpRequest object at 0x763b41d3eba0>,)
+           └ <function HttpRequest.execute at 0x763c35caed40>
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/googleapiclient/http.py", line 938, in execute
+    raise HttpError(resp, content, uri=self.uri)
+          │         │     │            │    └ 'https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/questionsa.csv%21A%3AB?alt=...
+          │         │     │            └ <googleapiclient.http.HttpRequest object at 0x763b41d3eba0>
+          │         │     └ b'{\n  "error": {\n    "code": 404,\n    "message": "Requested entity was not found.",\n    "status": "NOT_FOUND"\n  }\n}\n'
+          │         └ {'vary': 'Origin, X-Origin, Referer', 'content-type': 'application/json; charset=UTF-8', 'date': 'Thu, 06 Feb 2025 20:58:38 G...
+          └ <class 'googleapiclient.errors.HttpError'>
+
+googleapiclient.errors.HttpError: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/questionsa.csv%21A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+
+
+The above exception was the direct cause of the following exception:
+
+
+Traceback (most recent call last):
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/main.py", line 43, in <module>
+    main()
+    └ <function main at 0x763c5c042840>
+
+> File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/main.py", line 33, in main
+    bot = SalesBot()
+          └ <class 'bot.SalesBot'>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/bot.py", line 28, in __init__
+    self._load_qa_data()
+    │    └ <function SalesBot._load_qa_data at 0x763c3648c9a0>
+    └ <bot.SalesBot object at 0x763c361d4680>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/bot.py", line 38, in _load_qa_data
+    df = self.sheets_loader.load_from_sheet()
+         │    │             └ <function GoogleSheetsLoader.load_from_sheet at 0x763c35cbe480>
+         │    └ <google_sheets.GoogleSheetsLoader object at 0x763b42493d10>
+         └ <bot.SalesBot object at 0x763c361d4680>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 289, in wrapped_f
+    return self(f, *args, **kw)
+           │    │   │       └ {}
+           │    │   └ (<google_sheets.GoogleSheetsLoader object at 0x763b42493d10>,)
+           │    └ <function GoogleSheetsLoader.load_from_sheet at 0x763c35cbe340>
+           └ <Retrying object at 0x763c35ca9a00 (stop=<tenacity.stop.stop_after_attempt object at 0x763c3646ba70>, wait=<tenacity.wait.wai...
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 379, in __call__
+    do = self.iter(retry_state=retry_state)
+         │    │                └ <RetryCallState 129996880326160: attempt #3; slept for 8.0; last result: failed (HttpError <HttpError 404 when requesting htt...
+         │    └ <function BaseRetrying.iter at 0x763c39182700>
+         └ <Retrying object at 0x763c35ca9a00 (stop=<tenacity.stop.stop_after_attempt object at 0x763c3646ba70>, wait=<tenacity.wait.wai...
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 326, in iter
+    raise retry_exc from fut.exception()
+          │              │   └ <function Future.exception at 0x763c5c8fc4a0>
+          │              └ <Future at 0x763b41dfb050 state=finished raised HttpError>
+          └ RetryError(<Future at 0x763b41dfb050 state=finished raised HttpError>)
+
+tenacity.RetryError: RetryError[<Future at 0x763b41dfb050 state=finished raised HttpError>]
+2025-02-07 03:08:16.983 | INFO     | __main__:main:31 - Starting Sales Assistant Bot
+2025-02-07 03:08:16.984 | DEBUG    | config:validate_paths:50 - Validating Google credentials path: /home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/llamych-a7b91766d90b.json
+2025-02-07 03:08:25.057 | INFO     | vector_store:__init__:20 - Vector store initialized successfully
+2025-02-07 03:08:25.064 | INFO     | google_sheets:__init__:20 - Google Sheets API initialized successfully
+2025-02-07 03:08:27.013 | ERROR    | google_sheets:load_from_sheet:51 - HTTP error occurred: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/questionsa.csv%21A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+2025-02-07 03:08:31.928 | ERROR    | google_sheets:load_from_sheet:51 - HTTP error occurred: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/questionsa.csv%21A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+2025-02-07 03:08:36.994 | ERROR    | google_sheets:load_from_sheet:51 - HTTP error occurred: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/questionsa.csv%21A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+2025-02-07 03:08:36.994 | ERROR    | bot:_load_qa_data:41 - Failed to load QA data: RetryError[<Future at 0x7f2315f1d370 state=finished raised HttpError>]
+2025-02-07 03:08:36.995 | ERROR    | bot:__init__:32 - Failed to initialize sales bot: RetryError[<Future at 0x7f2315f1d370 state=finished raised HttpError>]
+2025-02-07 03:08:36.995 | ERROR    | __main__:main:39 - Bot crashed: RetryError[<Future at 0x7f2315f1d370 state=finished raised HttpError>]
+Traceback (most recent call last):
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 382, in __call__
+    result = fn(*args, **kwargs)
+             │   │       └ {}
+             │   └ (<google_sheets.GoogleSheetsLoader object at 0x7f2320f965a0>,)
+             └ <function GoogleSheetsLoader.load_from_sheet at 0x7f2409eca340>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/google_sheets.py", line 32, in load_from_sheet
+    ).execute()
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/googleapiclient/_helpers.py", line 130, in positional_wrapper
+    return wrapped(*args, **kwargs)
+           │        │       └ {}
+           │        └ (<googleapiclient.http.HttpRequest object at 0x7f2315f1fe00>,)
+           └ <function HttpRequest.execute at 0x7f2409ec2d40>
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/googleapiclient/http.py", line 938, in execute
+    raise HttpError(resp, content, uri=self.uri)
+          │         │     │            │    └ 'https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/questionsa.csv%21A%3AB?alt=...
+          │         │     │            └ <googleapiclient.http.HttpRequest object at 0x7f2315f1fe00>
+          │         │     └ b'{\n  "error": {\n    "code": 404,\n    "message": "Requested entity was not found.",\n    "status": "NOT_FOUND"\n  }\n}\n'
+          │         └ {'vary': 'Origin, X-Origin, Referer', 'content-type': 'application/json; charset=UTF-8', 'date': 'Thu, 06 Feb 2025 21:08:36 G...
+          └ <class 'googleapiclient.errors.HttpError'>
+
+googleapiclient.errors.HttpError: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/questionsa.csv%21A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+
+
+The above exception was the direct cause of the following exception:
+
+
+Traceback (most recent call last):
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/main.py", line 43, in <module>
+    main()
+    └ <function main at 0x7f243013e840>
+
+> File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/main.py", line 33, in main
+    bot = SalesBot()
+          └ <class 'bot.SalesBot'>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/bot.py", line 28, in __init__
+    self._load_qa_data()
+    │    └ <function SalesBot._load_qa_data at 0x7f240a69c9a0>
+    └ <bot.SalesBot object at 0x7f240a25db50>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/bot.py", line 38, in _load_qa_data
+    df = self.sheets_loader.load_from_sheet()
+         │    │             └ <function GoogleSheetsLoader.load_from_sheet at 0x7f2409eca480>
+         │    └ <google_sheets.GoogleSheetsLoader object at 0x7f2320f965a0>
+         └ <bot.SalesBot object at 0x7f240a25db50>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 289, in wrapped_f
+    return self(f, *args, **kw)
+           │    │   │       └ {}
+           │    │   └ (<google_sheets.GoogleSheetsLoader object at 0x7f2320f965a0>,)
+           │    └ <function GoogleSheetsLoader.load_from_sheet at 0x7f2409eca340>
+           └ <Retrying object at 0x7f2409ebd3d0 (stop=<tenacity.stop.stop_after_attempt object at 0x7f240a08c7a0>, wait=<tenacity.wait.wai...
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 379, in __call__
+    do = self.iter(retry_state=retry_state)
+         │    │                └ <RetryCallState 139788674152640: attempt #3; slept for 8.0; last result: failed (HttpError <HttpError 404 when requesting htt...
+         │    └ <function BaseRetrying.iter at 0x7f240d392700>
+         └ <Retrying object at 0x7f2409ebd3d0 (stop=<tenacity.stop.stop_after_attempt object at 0x7f240a08c7a0>, wait=<tenacity.wait.wai...
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 326, in iter
+    raise retry_exc from fut.exception()
+          │              │   └ <function Future.exception at 0x7f24309ac4a0>
+          │              └ <Future at 0x7f2315f1d370 state=finished raised HttpError>
+          └ RetryError(<Future at 0x7f2315f1d370 state=finished raised HttpError>)
+
+tenacity.RetryError: RetryError[<Future at 0x7f2315f1d370 state=finished raised HttpError>]
+2025-02-07 03:08:40.390 | INFO     | __main__:main:31 - Starting Sales Assistant Bot
+2025-02-07 03:08:40.391 | DEBUG    | config:validate_paths:50 - Validating Google credentials path: /home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/llamych-a7b91766d90b.json
+2025-02-07 03:08:48.466 | INFO     | vector_store:__init__:20 - Vector store initialized successfully
+2025-02-07 03:08:48.473 | INFO     | google_sheets:__init__:20 - Google Sheets API initialized successfully
+2025-02-07 03:08:50.203 | ERROR    | google_sheets:load_from_sheet:51 - HTTP error occurred: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/questionsa.csv%21A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+2025-02-07 03:08:55.188 | ERROR    | google_sheets:load_from_sheet:51 - HTTP error occurred: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/questionsa.csv%21A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+2025-02-07 03:09:00.029 | ERROR    | google_sheets:load_from_sheet:51 - HTTP error occurred: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/questionsa.csv%21A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+2025-02-07 03:09:00.029 | ERROR    | bot:_load_qa_data:41 - Failed to load QA data: RetryError[<Future at 0x7b4c275e5730 state=finished raised HttpError>]
+2025-02-07 03:09:00.029 | ERROR    | bot:__init__:32 - Failed to initialize sales bot: RetryError[<Future at 0x7b4c275e5730 state=finished raised HttpError>]
+2025-02-07 03:09:00.030 | ERROR    | __main__:main:39 - Bot crashed: RetryError[<Future at 0x7b4c275e5730 state=finished raised HttpError>]
+Traceback (most recent call last):
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 382, in __call__
+    result = fn(*args, **kwargs)
+             │   │       └ {}
+             │   └ (<google_sheets.GoogleSheetsLoader object at 0x7b4d1ebfdee0>,)
+             └ <function GoogleSheetsLoader.load_from_sheet at 0x7b4d1b6d6340>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/google_sheets.py", line 32, in load_from_sheet
+    ).execute()
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/googleapiclient/_helpers.py", line 130, in positional_wrapper
+    return wrapped(*args, **kwargs)
+           │        │       └ {}
+           │        └ (<googleapiclient.http.HttpRequest object at 0x7b4c27586930>,)
+           └ <function HttpRequest.execute at 0x7b4d1b6c6d40>
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/googleapiclient/http.py", line 938, in execute
+    raise HttpError(resp, content, uri=self.uri)
+          │         │     │            │    └ 'https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/questionsa.csv%21A%3AB?alt=...
+          │         │     │            └ <googleapiclient.http.HttpRequest object at 0x7b4c27586930>
+          │         │     └ b'{\n  "error": {\n    "code": 404,\n    "message": "Requested entity was not found.",\n    "status": "NOT_FOUND"\n  }\n}\n'
+          │         └ {'vary': 'Origin, X-Origin, Referer', 'content-type': 'application/json; charset=UTF-8', 'date': 'Thu, 06 Feb 2025 21:08:59 G...
+          └ <class 'googleapiclient.errors.HttpError'>
+
+googleapiclient.errors.HttpError: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/questionsa.csv%21A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+
+
+The above exception was the direct cause of the following exception:
+
+
+Traceback (most recent call last):
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/main.py", line 43, in <module>
+    main()
+    └ <function main at 0x7b4d4193e840>
+
+> File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/main.py", line 33, in main
+    bot = SalesBot()
+          └ <class 'bot.SalesBot'>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/bot.py", line 28, in __init__
+    self._load_qa_data()
+    │    └ <function SalesBot._load_qa_data at 0x7b4d1bea09a0>
+    └ <bot.SalesBot object at 0x7b4d1b6c1bb0>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/bot.py", line 38, in _load_qa_data
+    df = self.sheets_loader.load_from_sheet()
+         │    │             └ <function GoogleSheetsLoader.load_from_sheet at 0x7b4d1b6d6480>
+         │    └ <google_sheets.GoogleSheetsLoader object at 0x7b4d1ebfdee0>
+         └ <bot.SalesBot object at 0x7b4d1b6c1bb0>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 289, in wrapped_f
+    return self(f, *args, **kw)
+           │    │   │       └ {}
+           │    │   └ (<google_sheets.GoogleSheetsLoader object at 0x7b4d1ebfdee0>,)
+           │    └ <function GoogleSheetsLoader.load_from_sheet at 0x7b4d1b6d6340>
+           └ <Retrying object at 0x7b4d1b9cc6b0 (stop=<tenacity.stop.stop_after_attempt object at 0x7b4d1b85fc20>, wait=<tenacity.wait.wai...
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 379, in __call__
+    do = self.iter(retry_state=retry_state)
+         │    │                └ <RetryCallState 135567012794768: attempt #3; slept for 8.0; last result: failed (HttpError <HttpError 404 when requesting htt...
+         │    └ <function BaseRetrying.iter at 0x7b4d1eb96700>
+         └ <Retrying object at 0x7b4d1b9cc6b0 (stop=<tenacity.stop.stop_after_attempt object at 0x7b4d1b85fc20>, wait=<tenacity.wait.wai...
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 326, in iter
+    raise retry_exc from fut.exception()
+          │              │   └ <function Future.exception at 0x7b4d4219c4a0>
+          │              └ <Future at 0x7b4c275e5730 state=finished raised HttpError>
+          └ RetryError(<Future at 0x7b4c275e5730 state=finished raised HttpError>)
+
+tenacity.RetryError: RetryError[<Future at 0x7b4c275e5730 state=finished raised HttpError>]
+2025-02-07 03:11:31.260 | INFO     | __main__:main:31 - Starting Sales Assistant Bot
+2025-02-07 03:11:31.260 | DEBUG    | config:validate_paths:50 - Validating Google credentials path: /home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/llamych-a7b91766d90b.json
+2025-02-07 03:11:40.076 | INFO     | vector_store:__init__:20 - Vector store initialized successfully
+2025-02-07 03:11:40.083 | INFO     | google_sheets:__init__:20 - Google Sheets API initialized successfully
+2025-02-07 03:11:41.893 | ERROR    | google_sheets:load_from_sheet:51 - HTTP error occurred: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/questionsa.csv%21A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+2025-02-07 03:11:46.745 | ERROR    | google_sheets:load_from_sheet:51 - HTTP error occurred: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/questionsa.csv%21A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+2025-02-07 03:11:51.667 | ERROR    | google_sheets:load_from_sheet:51 - HTTP error occurred: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/questionsa.csv%21A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+2025-02-07 03:11:51.668 | ERROR    | bot:_load_qa_data:41 - Failed to load QA data: RetryError[<Future at 0x7f820bde1520 state=finished raised HttpError>]
+2025-02-07 03:11:51.668 | ERROR    | bot:__init__:32 - Failed to initialize sales bot: RetryError[<Future at 0x7f820bde1520 state=finished raised HttpError>]
+2025-02-07 03:11:51.668 | ERROR    | __main__:main:39 - Bot crashed: RetryError[<Future at 0x7f820bde1520 state=finished raised HttpError>]
+Traceback (most recent call last):
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 382, in __call__
+    result = fn(*args, **kwargs)
+             │   │       └ {}
+             │   └ (<google_sheets.GoogleSheetsLoader object at 0x7f820c6abf50>,)
+             └ <function GoogleSheetsLoader.load_from_sheet at 0x7f82ffece340>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/google_sheets.py", line 32, in load_from_sheet
+    ).execute()
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/googleapiclient/_helpers.py", line 130, in positional_wrapper
+    return wrapped(*args, **kwargs)
+           │        │       └ {}
+           │        └ (<googleapiclient.http.HttpRequest object at 0x7f820bd9e9f0>,)
+           └ <function HttpRequest.execute at 0x7f82ffebed40>
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/googleapiclient/http.py", line 938, in execute
+    raise HttpError(resp, content, uri=self.uri)
+          │         │     │            │    └ 'https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/questionsa.csv%21A%3AB?alt=...
+          │         │     │            └ <googleapiclient.http.HttpRequest object at 0x7f820bd9e9f0>
+          │         │     └ b'{\n  "error": {\n    "code": 404,\n    "message": "Requested entity was not found.",\n    "status": "NOT_FOUND"\n  }\n}\n'
+          │         └ {'vary': 'Origin, X-Origin, Referer', 'content-type': 'application/json; charset=UTF-8', 'date': 'Thu, 06 Feb 2025 21:11:51 G...
+          └ <class 'googleapiclient.errors.HttpError'>
+
+googleapiclient.errors.HttpError: <HttpError 404 when requesting https://sheets.googleapis.com/v4/spreadsheets/mMO7IbO0chaoPJazJ09w3Oagj_IfInyUjPxO4SpNtPI/values/questionsa.csv%21A%3AB?alt=json returned "Requested entity was not found.". Details: "Requested entity was not found.">
+
+
+The above exception was the direct cause of the following exception:
+
+
+Traceback (most recent call last):
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/main.py", line 43, in <module>
+    main()
+    └ <function main at 0x7f83260de840>
+
+> File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/main.py", line 33, in main
+    bot = SalesBot()
+          └ <class 'bot.SalesBot'>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/bot.py", line 28, in __init__
+    self._load_qa_data()
+    │    └ <function SalesBot._load_qa_data at 0x7f83006989a0>
+    └ <bot.SalesBot object at 0x7f82ffeb9910>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/bot.py", line 38, in _load_qa_data
+    df = self.sheets_loader.load_from_sheet()
+         │    │             └ <function GoogleSheetsLoader.load_from_sheet at 0x7f82ffece480>
+         │    └ <google_sheets.GoogleSheetsLoader object at 0x7f820c6abf50>
+         └ <bot.SalesBot object at 0x7f82ffeb9910>
+
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 289, in wrapped_f
+    return self(f, *args, **kw)
+           │    │   │       └ {}
+           │    │   └ (<google_sheets.GoogleSheetsLoader object at 0x7f820c6abf50>,)
+           │    └ <function GoogleSheetsLoader.load_from_sheet at 0x7f82ffece340>
+           └ <Retrying object at 0x7f8300057980 (stop=<tenacity.stop.stop_after_attempt object at 0x7f8303725e80>, wait=<tenacity.wait.wai...
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 379, in __call__
+    do = self.iter(retry_state=retry_state)
+         │    │                └ <RetryCallState 140196531058880: attempt #3; slept for 8.0; last result: failed (HttpError <HttpError 404 when requesting htt...
+         │    └ <function BaseRetrying.iter at 0x7f830338e700>
+         └ <Retrying object at 0x7f8300057980 (stop=<tenacity.stop.stop_after_attempt object at 0x7f8303725e80>, wait=<tenacity.wait.wai...
+  File "/home/ysrmax/CascadeProjects/AI_Telegram_Sales_Agent/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 326, in iter
+    raise retry_exc from fut.exception()
+          │              │   └ <function Future.exception at 0x7f83269744a0>
+          │              └ <Future at 0x7f820bde1520 state=finished raised HttpError>
+          └ RetryError(<Future at 0x7f820bde1520 state=finished raised HttpError>)
+
+tenacity.RetryError: RetryError[<Future at 0x7f820bde1520 state=finished raised HttpError>]
